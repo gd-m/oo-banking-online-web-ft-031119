@@ -14,7 +14,7 @@ class Transfer
       return true
     else false
     end
-    
+
   end
 
 end
